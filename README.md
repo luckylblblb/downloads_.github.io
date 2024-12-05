@@ -1,5 +1,6 @@
-This is for my school only. I made this for the people at my school to play games! As Bighummus69 (hummusman69) said, "Happy school gaming!"
+This is for my school only. I made this so the people at my school could play games! As Bighummus69 (hummusman69) said, "Happy school gaming!"
 
+(click on a link and then in the bottom right click on it. once you are in the file then click twice on the file: _index.html_ Once clicked twice it should open the game into a chrome tab.)
 
 Gimes:
 
